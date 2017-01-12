@@ -1,0 +1,18 @@
+{
+  "name": "newtown/xonu-paypal-invoice-sender",
+  "license": "",
+  "type": "magento-module",
+  "description": "",
+  "homepage": "https://www.newtown.at",
+  "require": {
+    "php": ">=5.5",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Ingo Fabbri",
+      "email": "if@newtown.at",
+      "role": "Author/Maintainer"
+    }
+  ]
+}
